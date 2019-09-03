@@ -1,4 +1,4 @@
-# Personal Website README
+# Personal Website
 
 ## Project setup
 ```
