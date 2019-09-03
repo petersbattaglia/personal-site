@@ -1,4 +1,4 @@
-# hello-world
+# Peter Battaglia' Personal Website
 
 ## Project setup
 ```
