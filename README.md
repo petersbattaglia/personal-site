@@ -1,4 +1,4 @@
-# Peter Battaglia' Personal Website
+# Peter Battaglia's Personal Website
 
 ## Project setup
 ```
